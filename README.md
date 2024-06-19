@@ -9,18 +9,21 @@ ImageCLEF Concept Detection 2024 dataset from **https://www.imageclef.org/2024/m
 **Feature Extraction**
 
 Features extracted based on DenseNet is saved under the file named **“mlb_dp_classifier.pkl”**
-Features extracted based on MultiLabelBinazier (MLB) is saved under the file named** “mlb_bpo_classifier.pkl”**
+Features extracted based on MultiLabelBinazier (MLB) is saved under the file named **“mlb_bpo_classifier.pkl”**
 
 **Model Generation**
 
 Model generated based on DenseNet is saved under the file named **“dp-classifier.h5”**
-Model generated based on MLB is saved under the file named** “bpo-classifier.h5”**
+
+Model generated based on MLB is saved under the file named **“bpo-classifier.h5”**
 
 **Output**
 
-**DenseNet output - ** dp-only-dp-labels.csv
+**DenseNet output -** dp-only-dp-labels.csv
+
 **MLB output  -** bpo-only-bpo-labels.csv
-**DenseNet with MLB output - ** bpo-only-bpo-labels.csv
+
+**DenseNet with MLB output -** bpo-only-bpo-labels.csv
 
 **Code**
 

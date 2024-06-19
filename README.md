@@ -13,9 +13,9 @@ Features extracted based on MultiLabelBinazier (MLB) is saved under the file nam
 
 **Model Generation**
 
-Model generated based on DenseNet is saved under the file named **"Generated-model/dp-classifier.h5”**
+Model generated based on DenseNet is saved under the file named **"Generated-Model/dp-classifier.h5”**
 
-Model generated based on MLB is saved under the file named **"Generated-model/bpo-classifier.h5”**
+Model generated based on MLB is saved under the file named **"Generated-Model/bpo-classifier.h5”**
 
 **Output**
 
